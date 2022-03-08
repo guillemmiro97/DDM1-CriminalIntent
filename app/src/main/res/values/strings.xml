@@ -1,3 +1,7 @@
-<resources>
-    <string name="app_name">DDM1-CriminalIntent</string>
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <string name="app_name" tools:ignore="Typos">DDM1-CriminalIntent</string>
+    <string name="crimeTitle">Title</string>
+    <string name="crimeTitleHint">Enter a title for the crime.</string>
+    <string name="crimeDetails">Details</string>
+    <string name="crime_solved">Solved</string>
 </resources>
